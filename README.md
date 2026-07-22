@@ -27,7 +27,7 @@
 
 ---
 
-##快速安装
+## 快速安装
 
 和你的 AI Agent 说：
 帮我安装https://github.com/xdaker/TCM-Skill?tab=readme-ov-file 这个Skill。
